@@ -3,8 +3,8 @@ github.com/evanw/esbuild v0.14.11 h1:bw50N4v70Dqf/B6Wn+3BM6BVttz4A6tHn8m8Ydj9vxk
 github.com/evanw/esbuild v0.14.11/go.mod h1:GG+zjdi59yh3ehDn4ZWfPcATxjPDUH53iU4ZJbp7dkY=
 github.com/livebud/bud v0.1.3 h1:r4KbZpkYeSjZigBSWdH7gycusj5Zo1Xy5WyFK7hbu+o=
 github.com/livebud/bud v0.1.3/go.mod h1:YYfDmLuqq8nP5WzgCoA9xDNOeJaz9Zml+2uaglvR6AE=
-github.com/livebud/bud-test-nested-plugin v0.0.2 h1:1RVpUkwjBEkHTgKGnY7XMUv6c2QfwoXvP6biigDWOUA=
-github.com/livebud/bud-test-nested-plugin v0.0.2/go.mod h1:M3QujkGG4ggZ6h75t5zF8MEJFrLTwa2USeIYHQdO2YQ=
+github.com/livebud/bud-test-nested-plugin v0.0.3 h1:1Yq/kguwSjbl2zTkmlYR2jiMWGAtt0eXuG7+G/kptmM=
+github.com/livebud/bud-test-nested-plugin v0.0.3/go.mod h1:M3QujkGG4ggZ6h75t5zF8MEJFrLTwa2USeIYHQdO2YQ=
 github.com/matryer/is v1.4.0 h1:sosSmIWwkYITGrxZ25ULNDeKiMNzFSr4V/eqBQP0PeE=
 github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00 h1:n6/2gBQ3RWajuToeY6ZtZTIKv2v7ThUy5KKusIT0yc0=
 github.com/otiai10/copy v1.7.0 h1:hVoPiN+t+7d2nzzwMiDHPSOogsWAStewq3TwU05+clE=
