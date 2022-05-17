@@ -2,3 +2,7 @@
 // plugins do not necessarily need to have Go files. In cases like this, a
 // placeholder is needed.
 package plugin
+
+import (
+	_ "github.com/livebud/bud-test-nested-plugin"
+)
