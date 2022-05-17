@@ -1,3 +1,3 @@
-module github.com/livebud/test-plugin
+module github.com/livebud/bud-test-plugin
 
 go 1.18
